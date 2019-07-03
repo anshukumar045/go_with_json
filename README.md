@@ -6,4 +6,4 @@ apiToPushAnsPullFromDb.go :-
 readDataToJson.go :-
       Read the data structure to Jason Format
 yamlData.go :- 
-      Read the YAML data and diplay on localhost
+      Read the YAML data and diplay on localhost.
